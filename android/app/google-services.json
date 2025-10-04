@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127442501469",
+    "project_id": "fir-cd072",
+    "storage_bucket": "fir-cd072.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127442501469:android:6f8fffa27d42e62dd9b2b4",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zjnU50zOj1-oY6tJEIXssJy5cUVezE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
